@@ -1,4 +1,10 @@
-## Hi there 👋
+## About myself
+### I support the CDL team "Miami Heretics"
+
+Llevo siguiendolos desde 2023, para mi es como si fuesen un equipo de futbol
+
+<img width="498" height="281" alt="mettalz-cdl" src="https://github.com/user-attachments/assets/6addf0bb-d868-4077-a312-6aaeab07418d" />
+
 
 <!--
 **DrkSergii/DrkSergii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
