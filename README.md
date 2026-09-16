@@ -1,4 +1,13 @@
 ## About myself
+
+### I love Videogames
+
+Los videojuegos son mi pasion desde pequeño (en especial pokemon), de ahí me aficione a todo lo que tiene que ver con la tecnología, mi pokemon favorito es Dragonite
+
+<img width="498" height="280" alt="dragon-dragonite" src="https://github.com/user-attachments/assets/0b4fcd16-9d59-4c47-8ba9-36250b83e204" />
+
+
+
 ### I support the CDL team "Miami Heretics"
 
 Llevo siguiendolos desde 2023, para mi es como si fuesen un equipo de futbol
