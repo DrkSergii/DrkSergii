@@ -1,16 +1,20 @@
-## About myself
+## Who am I?
 
-### I love Videogames
-
-Los videojuegos son mi pasion desde pequeño (en especial pokemon), de ahí me aficione a todo lo que tiene que ver con la tecnología, mi pokemon favorito es Dragonite
-
-<img width="498" height="280" alt="dragon-dragonite" src="https://github.com/user-attachments/assets/0b4fcd16-9d59-4c47-8ba9-36250b83e204" />
+<img width="1898" height="980" alt="re-free-zy" src="https://github.com/user-attachments/assets/b279bd02-2242-41fb-94da-db680cc2315a" />
 
 
+### Soy Sergi, estudio al ITB en Barcelona, Catalunya
 
-### I support the CDL team "Miami Heretics"
+Desde pequeño me han encantado los videojuegos, de aqui viene que me encante la tecnologia y esté estudiando DAWe ahora mismo.
 
-Llevo siguiendolos desde 2023, para mi es como si fuesen un equipo de futbol
+He crecido jugando pokemon en mi 3DS, ese es el origen de mi por que.
+
+
+### Ahora
+
+Mi mayor hobby es jugar videojuegos, es espceial el Call Of Duty, ya que juego competitivo.
+De ahi me aficione a Miami Heretics, un equipo de esports, para mi Heretics es mi familia de otra madre.
+#### You can't teach passion.
 
 <img width="498" height="281" alt="mettalz-cdl" src="https://github.com/user-attachments/assets/6addf0bb-d868-4077-a312-6aaeab07418d" />
 
